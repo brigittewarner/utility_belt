@@ -13,8 +13,8 @@
 * TDD - write test cases for each type of utility function and collection type
 
 ## Requirements
-An installation of Node: [Node](https://github.com/nodejs/node "Node")
-An installation of Tape: [Tape](https://github.com/substack/tape "Tape")
+* An installation of Node: [Node](https://github.com/nodejs/node "Node")
+* An installation of Tape: [Tape](https://github.com/substack/tape "Tape")
 
 ## Running Tests
 ```
